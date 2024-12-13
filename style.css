@@ -149,3 +149,7 @@
 .edit-mode .task {
   display: none;
 }
+
+.title {
+  display: none;
+}
